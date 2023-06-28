@@ -1,0 +1,15 @@
+artifact_uri: /home/anil_tiger/pydataberlin-2019/mlruns/743275517308190563/6d15094a132245169eb49f4379220cd2/artifacts
+end_time: 1687773444921
+entry_point_name: ''
+experiment_id: '743275517308190563'
+lifecycle_stage: active
+run_id: 6d15094a132245169eb49f4379220cd2
+run_name: funny-stork-529
+run_uuid: 6d15094a132245169eb49f4379220cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687773442821
+status: 3
+tags: []
+user_id: anil_tiger

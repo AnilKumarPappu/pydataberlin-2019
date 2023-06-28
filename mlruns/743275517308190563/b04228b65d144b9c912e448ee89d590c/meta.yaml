@@ -1,0 +1,15 @@
+artifact_uri: /home/anil_tiger/pydataberlin-2019/mlruns/743275517308190563/b04228b65d144b9c912e448ee89d590c/artifacts
+end_time: 1687773438986
+entry_point_name: ''
+experiment_id: '743275517308190563'
+lifecycle_stage: active
+run_id: b04228b65d144b9c912e448ee89d590c
+run_name: gaudy-mule-306
+run_uuid: b04228b65d144b9c912e448ee89d590c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687773436666
+status: 3
+tags: []
+user_id: anil_tiger

@@ -1,0 +1,15 @@
+artifact_uri: /home/anil_tiger/pydataberlin-2019/mlruns/743275517308190563/a421a5cbfb2a4f5b8ed2f601e673c60f/artifacts
+end_time: 1687773493931
+entry_point_name: ''
+experiment_id: '743275517308190563'
+lifecycle_stage: active
+run_id: a421a5cbfb2a4f5b8ed2f601e673c60f
+run_name: useful-quail-840
+run_uuid: a421a5cbfb2a4f5b8ed2f601e673c60f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687773491862
+status: 3
+tags: []
+user_id: anil_tiger

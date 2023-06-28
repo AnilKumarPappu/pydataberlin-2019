@@ -1,0 +1,15 @@
+artifact_uri: /home/anil_tiger/pydataberlin-2019/mlruns/743275517308190563/ad94777080ed4f19a78a8e9ae0cdfeb5/artifacts
+end_time: 1687773436639
+entry_point_name: ''
+experiment_id: '743275517308190563'
+lifecycle_stage: active
+run_id: ad94777080ed4f19a78a8e9ae0cdfeb5
+run_name: gaudy-cat-438
+run_uuid: ad94777080ed4f19a78a8e9ae0cdfeb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687773431829
+status: 3
+tags: []
+user_id: anil_tiger
